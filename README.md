@@ -12,9 +12,9 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/khadija-z
 
 ## Skills
 
-- **Programming Languages**: Python, R
+- **Programming Languages**: Python, R, c++, java,SQL
 - **Machine Learning**: Supervised and Unsupervised Learning, Model Evaluation
-- **Deep Learning**: Neural Networks, CNNs, RNNs
+- **Deep Learning**: Neural Networks, CNNs, RNNs,LSTM, BILSTM, GRU
 - **Tools**: TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy
 - **Data Visualization**: Matplotlib, Seaborn
 
