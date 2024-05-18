@@ -1,16 +1,28 @@
-### Hi there 👋
+# Welcome to My GitHub Profile!
 
-<!--
-**zrkhadija/zrkhadija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋 I'm Khadija Zribi, a freshly graduated data scientist with a deep passion for machine learning and artificial intelligence. Currently, I'm working as a deep learning intern, where I get to explore and implement cutting-edge technologies in the field.
 
-Here are some ideas to get you started:
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/khadija-zribi/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🎓 Recent graduate in Data Science.
+- 🤖 Enthusiast in Machine Learning and Artificial Intelligence.
+- 🚀 Currently gaining hands-on experience as a Deep Learning Intern.
+
+## Skills
+
+- **Programming Languages**: Python, R
+- **Machine Learning**: Supervised and Unsupervised Learning, Model Evaluation
+- **Deep Learning**: Neural Networks, CNNs, RNNs
+- **Tools**: TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy
+- **Data Visualization**: Matplotlib, Seaborn
+
+## Contact
+
+You can reach me at khadija.zribi@esprit.tn
+Let's connect and collaborate!
+
+---
+
+Thanks for visiting my profile! 😊
