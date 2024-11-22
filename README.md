@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm Khadija Zribi, a freshly graduated data scientist with a deep passion for machine learning and artificial intelligence. Currently, I'm working as a deep learning intern, where I get to explore and implement cutting-edge technologies in the field.<br>About Me<br>🎓 Recent graduate in Data Science.<br>🤖 Enthusiast in Machine Learning and Artificial Intelligence.<br>🚀 Currently gaining hands-on experience as a Deep Learning Intern.
+Hi there! 👋 I'm Khadija Zribi, a freshly graduated data scientist with a deep passion for machine learning and artificial intelligence. Currently, I'm working as a deep learning intern, where I get to explore and implement cutting-edge technologies in the field.<br>About Me<br>🎓 Recent graduate with ✨️Honors✨️ in Data Science.<br>🤖 Enthusiast in Machine Learning and Artificial Intelligence.<br>🚀 Currently gaining hands-on experience as a Deep Learning Intern.
 
 
 ## 🌐 Socials:
