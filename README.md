@@ -21,5 +21,3 @@ Hi there! 👋 I'm Khadija Zribi, a freshly graduated data scientist with a deep
 
 ---
 [![](https://visitcount.itsvg.in/api?id=zrkhadija&icon=7&color=10)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
